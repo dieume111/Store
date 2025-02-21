@@ -59,7 +59,7 @@
     <?php include 'includes/sidebar.php'; ?>
 
     <div class="dashboard">
-        <h2>Welcome, </h2>
+        <h2>Welcome to our page</h2>
         
         <!-- Widgets Section -->
         <div class="widgets">
