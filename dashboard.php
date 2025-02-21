@@ -73,7 +73,7 @@
             </div>
             <div class="widget">
                 <h3>Recent Activity</h3>
-                <p>5 New Entries</p>
+                <p>5 new Entries</p>
             </div>
         </div>
     </div>
